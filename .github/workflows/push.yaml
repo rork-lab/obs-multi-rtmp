@@ -116,7 +116,7 @@ jobs:
           name: obs-multi-rtmp ${{ steps.check.outputs.version }}
           body_path: ${{ github.workspace }}/CHECKSUMS.txt
           files: |
-            ${{ github.workspace }}/*.exe
+            # ${{ github.workspace }}/*.exe
             ${{ github.workspace }}/*.zip
             ${{ github.workspace }}/*.pkg
             ${{ github.workspace }}/*.deb
