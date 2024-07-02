@@ -1,6 +1,6 @@
 # [Homepage / 主页](https://sorayuki.github.io/obs-multi-rtmp)
 
-## 为什么首页是日语？ / Why is the homepage in Japanese? 11
+## 为什么首页是日语？ / Why is the homepage in Japanese?
 
 因为最初是做给管人用的。
 
